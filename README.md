@@ -1,6 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Ramdhan Syaifulloh**.
+Saya Mahasiswa Universitas Pelita Bangsa Cikatang, Teknik Informatika
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
 
