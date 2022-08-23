@@ -8,5 +8,5 @@ Saya bertanggung jawab pada kualitas materi Mobile Application and Cloud Develop
 
 Saya juga memiliki Sertifikasi [Dicoding Belajar Dasar Pemrograman Web](https://www.credential.net/h5deoi5h) sejak 2022.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [https://www.linkedin.com/in/ramdhan-syaifulloh-318329197/) aku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ramdhan-syaifulloh-318329197/) aku ya.
 
