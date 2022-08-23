@@ -1,4 +1,9 @@
-### Hi! 👋 I'm Ramdhan Syaifulloh.
+<div align="center">
+  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Ramdhan Syaifulloh</h1>
+  <h3>Student at <a href="https://www.pelitabangsa.ac.id/tentangkami/" title="Transformation Towards the Ultimate Strategy for World Class University">Universitas Pelita Bangsa 🎓</a>, Indonesia</h3>
+</div>
+
+<br/>
 
 I am a student at Pelita Bangsa University, Cikarang, Informatics Engineering. Now I'm learning in dicoding, about android application development(Kotlin)
 
