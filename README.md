@@ -13,7 +13,7 @@ I am a student at Pelita Bangsa University, Cikarang, Informatics Engineering. N
 
 - Certificate [Dicoding Belajar Dasar Pemrograman Web](http://himatif.pelitabangsa.ac.id/) 2022. ✨
 - Certificate [ Cisco Networking Academy](https://drive.google.com/drive/folders/1-CYH0hKWFd5sHG4v0tf2hNsUnlWEELeh?usp=sharing) CyberOps Associate ✨
-- Certifcate [Nongsa Digital Park from March to July 2022](https://drive.google.com/drive/folders/1AxvSXY8dPGGVU94eW8zizQkojYHCopdb). ✨
+- Certifcate [Nongsa Digital Park from March to July 2022](https://drive.google.com/drive/folders/1AxvSXY8dPGGVU94eW8zizQkojYHCopdb). Mobile Development(JAVA) ✨
 
 ### Github Statistic
 <p align="left">
