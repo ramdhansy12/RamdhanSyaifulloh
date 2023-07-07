@@ -5,7 +5,7 @@
 
 <br/>
 
-I am a student at Pelita Bangsa University, Cikarang, Informatics Engineering. Now I'm learning in dicoding, about android application development(Kotlin)
+I am a student at Pelita Bangsa University, Cikarang, Informatics Engineering. Now I'm learning flutter
 
 
 
