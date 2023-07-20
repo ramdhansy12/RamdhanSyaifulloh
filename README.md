@@ -27,13 +27,7 @@ If you are interested in getting to know me, please follow my social media
 
 <a href="https://www.instagram.com/ramdhansyaifulloh/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.com/channels/@me">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ramdhan-syaifulloh-318329197/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ramdhansy12.ramdhansy12)
 
